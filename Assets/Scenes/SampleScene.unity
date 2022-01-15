@@ -388,7 +388,7 @@ Transform:
   - {fileID: 1772741080}
   m_Father: {fileID: 1638179318}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0.18, y: 0, z: 0}
 --- !u!114 &806121349
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -819,8 +819,8 @@ MonoBehaviour:
     m_InputAxisName: Mouse Y
     m_InputAxisValue: 0
     m_InvertInput: 1
-    m_MinValue: -70
-    m_MaxValue: 70
+    m_MinValue: -20
+    m_MaxValue: 20
     m_Wrap: 0
     m_Recentering:
       m_enabled: 0
